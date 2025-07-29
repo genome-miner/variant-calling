@@ -15,13 +15,13 @@ Freebayes: For variant calling
 BCFtools: For analyzing variants 
 Bash: For shell scripting
 
-# variant-calling/
-├── data/ # Raw and processed sequence data
-├── genome/ # Reference genome and indexes
-├── bam/ # BAM files
-├── variants/ # Variant call files
-├── Script/ # Pipeline script
-├── document/ # Flowchart and images
+# Variant-calling workflow
+1. Data/ # Raw and processed sequence data
+2. Genome/ # Reference genome and indexes
+3. Bam/ # BAM files
+4. Variants/ # Variant call files
+5. Script/ # Pipeline script
+6. Document/ # Flowchart and images
 
 # Pipeline steps (Summary)
 
