@@ -51,8 +51,8 @@ Bioinformatics | NGS Pipelines | Shell Scripting | Data Analysis | Variant Calli
 I'm a biotechnology student exploring bioinformatics, especially in pharmaceutical research. Open to learning and collaborating!
 **Email**: biotechnologist09pharma@gmail.com  
 
-# Flowchart
-Pipeline Workflow (images/flowchart.png)
+# Images and flowchart
+Pipeline Workflow and images (https://github.com/genome-miner/variant-calling/tree/main/Document)
 
 # Note
 This is a learning project for practicing NGS-based variant calling and shell scripting on Linux.  
