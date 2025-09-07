@@ -48,8 +48,7 @@ The sample showed 14 SNPs against the phiX174 reference. No indels were detected
 Bioinformatics | NGS Pipelines | Shell Scripting | Data Analysis | Variant Calling
 
 # Contact
-I'm a biotechnology student exploring bioinformatics, especially in pharmaceutical research. Open to learning and collaborating!
-**Email**: biotechnologist09pharma@gmail.com  
+I'm a biotechnology student exploring bioinformatics, especially in pharmaceutical research. Open to learning and collaborating!  
 
 # Images and flowchart
 Pipeline Workflow and images (https://github.com/genome-miner/variant-calling/tree/main/Document)
