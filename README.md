@@ -1,4 +1,4 @@
-# Variant-calling
+# NGS-Based Variant Calling and Genomic Analysis of Bacteriophage φX174
 This repository contains a variant calling pipeline implemented on Linux for analyzing genomic variations using NGS data.
 
 # Project overview
