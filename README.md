@@ -38,7 +38,6 @@
   <li><a href="#future-work">Future Work</a></li>
   <li><a href="#visualizations">Workflow Diagram and Documentation</a></li>
   <li><a href="#references">References and Data Sources</a></li>
-  <li><a href="#license">License</a></li>
   <li><a href="#contact">Author and Contact</a></li>
 </ul>
 
@@ -351,12 +350,6 @@ flowchart TD
   <li><b>BCFtools:</b> <a href="https://github.com/samtools/bcftools">Variant calling and manipulation tools</a>.</li>
   <li><b>FastQC:</b> <a href="https://www.bioinformatics.babraham.ac.uk/projects/fastqc/">Sequencing quality control software</a>.</li>
 </ul>
-
----
-
-<h2 id="license">📄 License</h2>
-
-<p>This project is distributed under the MIT License. See the <a href="https://github.com/genome-miner/variant-calling/blob/main/LICENSE">LICENSE</a> file for details.</p>
 
 ---
 
