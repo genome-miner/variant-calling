@@ -255,7 +255,7 @@ bash Script/pipeline.sh
 <p>The pipeline follows a reference-guided approach, starting with raw sequencing data and ending with the identification of genomic variants.</p>
 
 ```mermaid
-    flowchart LR
+flowchart TD
     A["GS Sequencing Data"] --> B["SRA Data Retrieval"]
     B --> C["SRA to FASTQ"]
     C --> D["Quality Assessment - FastQC"]
@@ -268,8 +268,6 @@ bash Script/pipeline.sh
     J --> K["Variant Filtering - BCFtools"]
     K --> L["SNP and Indel Identification"]
     L --> M["VCF Output"]
-```
-
 ---
 
 <h2 id="results">📊 Results Summary</h2>
