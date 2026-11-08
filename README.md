@@ -268,6 +268,8 @@ flowchart TD
     J --> K["Variant Filtering - BCFtools"]
     K --> L["SNP and Indel Identification"]
     L --> M["VCF Output"]
+```
+
 ---
 
 <h2 id="results">📊 Results Summary</h2>
