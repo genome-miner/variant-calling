@@ -16,7 +16,7 @@
 
 ---
 
-<p align="center">
+<p>
   <i>A practical exploration of NGS-based variant calling, using a reference-guided approach to identify single nucleotide polymorphisms (SNPs) and insertions or deletions (Indels) in bacteriophage φX174. The pipeline brings together sequence quality assessment, read alignment, genomic processing, and variant identification through command-line bioinformatics tools.</i>
 </p>
 
